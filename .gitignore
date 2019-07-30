@@ -1,0 +1,8 @@
+.idea/
+.DS_STORE
+db.sqlite3
+myapp/__pycache__
+myapp/snacktracker/__pycache__
+myapp/snacktracker/migrations/__pycache__
+myapp/myapp/__pycache__/
+
